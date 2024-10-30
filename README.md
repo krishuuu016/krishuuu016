@@ -7,10 +7,8 @@
 
   
   
-  
-</p>
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=krishuuu016" alt="visitor badge"/></p>
-<h2> 📈 &nbsp;My GitHub History!</h2>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=krishuuu016&left_color=green&right_color=red)
+                
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash-srivastav16&show_icons=true&theme=chartreuse-dark" /> 
